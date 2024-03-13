@@ -1,5 +1,6 @@
 # CHEETAH by BeastArcade
-![CHEETAH-PCB](https://github.com/BeastArcade/CHEETAH-PCB/assets/154543056/13a7204f-3eac-46a2-8cd5-157adc7fb6a6)
+<!--- ![CHEETAH-PCB](https://github.com/BeastArcade/CHEETAH-PCB/assets/154543056/13a7204f-3eac-46a2-8cd5-157adc7fb6a6) --->
+![IMG_4489](https://github.com/BeastArcade/CHEETAH/assets/154543056/9bc6f27e-f071-4bfb-af0f-2f694396aa20)
 
 ## ATTRIBUTION
 Based on the Flatbox Rev 5 RGB v2.0 from the GP2040-CE project <br>
@@ -16,10 +17,14 @@ Changes from the original design:
 - center PCB mounting-hole shifted to the left
 
 ## ASSEMBLY
-PCB assembly requires basic soldering skills.  6 tactile switches and 12 hotswap sockets need to be soldered to the board.<br>
+PCB assembly requires basic soldering skills.  Tactile switches and hotswap sockets need to be soldered to the PCB.  The case must be 3d printed. <br>
 `NOTE: This PCB is incompatible with the original Flatbox Rev5 Case.`
 
-**Parts Required for PCB Assembly:**<br>
+**Parts Required for Assembly:**<br>
+x1 Top Panel<br>
+x1 Bottom Panel<br>
+x12 20mm Keycaps<br>
+x7 m2X6 hex screws<br>
 x12 Kailh Choc v1/v2 Switches<br>
 x12 Kailh Low-Profile Hotswap Sockets<br>
 x6 6x6x5mm 4-Pin Tactile Switch<br>
